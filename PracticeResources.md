@@ -16,4 +16,4 @@
 
 - [Frontend Mentor](https://www.frontendmentor.io/): Practice with projects to improve your skills.
 
--[SoloLearn](https://www.sololearn.com/Courses/): They have both a web and mobile application for people to up their skills in JS, HTML,CSS,Java, Python. They also have a great community,and challenges based on skill level 
+- [SoloLearn](https://www.sololearn.com/Courses/): They have both a web and mobile application for people to up their skills in JS, HTML,CSS,Java, Python. They also have a great community,and challenges based on skill level 
